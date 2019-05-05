@@ -1,0 +1,11 @@
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.deps.json
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.runtimeconfig.json
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.runtimeconfig.dev.json
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.dll
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.csprojAssemblyReference.cache
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.csproj.CoreCompileInputs.cache
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.AssemblyInfoInputs.cache
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.AssemblyInfo.cs
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\bin\Debug\netcoreapp2.2\RemoveAll.pdb
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.dll
+D:\GitHub\Shayesteh.M.Excersize.08\RemoveAll\RemoveAll\obj\Debug\netcoreapp2.2\RemoveAll.pdb
