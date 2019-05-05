@@ -1,0 +1,11 @@
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\bin\Debug\netcoreapp2.2\AutoConvertArabicChars.deps.json
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\bin\Debug\netcoreapp2.2\AutoConvertArabicChars.runtimeconfig.json
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\bin\Debug\netcoreapp2.2\AutoConvertArabicChars.runtimeconfig.dev.json
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\bin\Debug\netcoreapp2.2\AutoConvertArabicChars.dll
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\obj\Debug\netcoreapp2.2\AutoConvertArabicChars.csprojAssemblyReference.cache
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\obj\Debug\netcoreapp2.2\AutoConvertArabicChars.csproj.CoreCompileInputs.cache
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\obj\Debug\netcoreapp2.2\AutoConvertArabicChars.AssemblyInfoInputs.cache
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\obj\Debug\netcoreapp2.2\AutoConvertArabicChars.AssemblyInfo.cs
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\bin\Debug\netcoreapp2.2\AutoConvertArabicChars.pdb
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\obj\Debug\netcoreapp2.2\AutoConvertArabicChars.dll
+D:\GitHub\Shayesteh.M.Excersize.08\AutoConvertArabicChars\AutoConvertArabicChars\obj\Debug\netcoreapp2.2\AutoConvertArabicChars.pdb
