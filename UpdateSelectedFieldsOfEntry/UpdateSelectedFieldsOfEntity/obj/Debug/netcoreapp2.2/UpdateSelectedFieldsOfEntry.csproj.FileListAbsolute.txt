@@ -1,0 +1,11 @@
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\bin\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.deps.json
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\bin\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.runtimeconfig.json
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\bin\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.runtimeconfig.dev.json
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\bin\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.dll
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\obj\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.csprojAssemblyReference.cache
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\obj\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.csproj.CoreCompileInputs.cache
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\obj\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.AssemblyInfoInputs.cache
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\obj\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.AssemblyInfo.cs
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\bin\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.pdb
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\obj\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.dll
+C:\Users\Shayesteh-M\source\repos\UpdateSelectedFieldsOfEntry\UpdateSelectedFieldsOfEntry\obj\Debug\netcoreapp2.2\UpdateSelectedFieldsOfEntry.pdb
